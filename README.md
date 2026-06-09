@@ -1,0 +1,11 @@
+# Dynamical Systems Group
+
+Dynamical Systems Group (DSG) is a systems integrator for high-reliability organizations, operationalizing emerging technology so it performs dependably in real operational environments. We offer professional services, rather than focus on selling products. We make the systems you already depend on work together, instead of adding yet another one to worry about.
+
+Engineering organizations run on heterogeneous, often siloed systems: requirements management, product lifecycle management (PLM), simulation, model-based systems engineering (MBSE), and computer-aided design (CAD). We connect them through vendor-neutral spines that treat each existing system as a scoped authoritative source of truth, integrating without ripping out and replacing what already works. Many of these spines are open-source software: the carriers of open standards, proven across countless production environments. We help steward it rather than offload its risk to you, serving as a credible counterparty that validates each is the right tool for the job.
+
+What sets our offering apart is that we put emerging technology to work inside our own organization before deploying it for clients, so what we provide prioritizes reliable operations, not flashy demonstrations.
+
+The hardest integration problems are not only technical. When systems span organizations, the binding constraints are incentives, governance, and the human practices that hold coordination together: the institutional side of a Modular Open Systems Approach (MOSA). Our core is model-based systems engineering; where the problem demands it, we extend that core with doctoral-level economics and ethnographic field research, so inter-organizational integration is grounded in how people and institutions actually behave, in addition to matching data formats and API standardization.
+
+Across R&D, engineering, and operations, DSG pairs engineering rigor with disciplined delivery: a clear protocol for what counts as sound, met reliably in high-stakes government, aerospace, and infrastructure programs.
