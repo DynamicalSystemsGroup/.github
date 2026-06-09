@@ -1,5 +1,3 @@
-# Dynamical Systems Group
-
 Dynamical Systems Group (DSG) is a systems integrator for high-reliability organizations, operationalizing emerging technology so it performs dependably in real operational environments. We offer professional services, rather than focus on selling products. We make the systems you already depend on work together, instead of adding yet another one to worry about.
 
 Engineering organizations run on heterogeneous, often siloed systems: requirements management, product lifecycle management (PLM), simulation, model-based systems engineering (MBSE), and computer-aided design (CAD). We connect them through vendor-neutral spines that treat each existing system as a scoped authoritative source of truth, integrating without ripping out and replacing what already works. Many of these spines are open-source software: the carriers of open standards, proven across countless production environments. We help steward it rather than offload its risk to you, serving as a credible counterparty that validates each is the right tool for the job.
